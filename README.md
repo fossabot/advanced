@@ -1,4 +1,6 @@
 # DomoApps Advanced App Platform Template
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDomoApps%2Fadvanced.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDomoApps%2Fadvanced?ref=badge_shield)
+
 
 This is the template for creating an app based on [Create React App](https://github.com/facebook/create-react-app) with our own additions, base files, and generators.
 
@@ -19,3 +21,7 @@ By default, the generated app will subscribe to the `onDataUpdate` event on the 
 If your app needs the auto-reload, you can remove the `onDataUpdate` block of code - or make changes accordingly. The function call is placed in this file: `src/index.tsx`.
 
 For reference: [Handling Data Updates](https://developer.domo.com/docs/dev-studio-guides/handling-data-updates).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDomoApps%2Fadvanced.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDomoApps%2Fadvanced?ref=badge_large)
